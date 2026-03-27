@@ -9,6 +9,6 @@ int main(){
 
     cho+=a;
     *ptr+=ch;
-    cout <<a<<","<<ch<<endl;
+    cout <<a<<","<<ch<<endl;//129,a
     return 0;
 }

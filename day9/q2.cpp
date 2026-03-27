@@ -9,6 +9,6 @@ void multipleby2(int &a,int &b,int &c){
 int main(){
     int x=1,y=2,z=3;
     multipleby2(x,y,z);
-    cout<<x<<y<<z<<endl;
+    cout<<x<<y<<z<<endl;//246
     return 0;
 }
