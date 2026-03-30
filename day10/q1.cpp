@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int inputnum(int *num,int n){
     bool isnum=true;
     for(int i=0;i<n;i++){
