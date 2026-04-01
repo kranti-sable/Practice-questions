@@ -1,3 +1,4 @@
+//brute force approch
 #include <iostream>
 using namespace std;
 void subarry(int arr[],int n){
