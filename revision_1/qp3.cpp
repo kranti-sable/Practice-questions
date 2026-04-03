@@ -1,6 +1,7 @@
 //brute force approch
 #include <iostream>
 using namespace std;
+
 void subarry(int arr[],int n){
     int maxsum=INT_MIN;
      for(int start=0;start<n;start++){
