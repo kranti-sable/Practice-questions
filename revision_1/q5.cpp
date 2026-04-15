@@ -1,4 +1,4 @@
-//max profit 
+//max profit ,my approach :)
 #include <iostream>
 using namespace std;
 void maxprofit(int arr[],int n){
