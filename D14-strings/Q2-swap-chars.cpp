@@ -14,7 +14,6 @@ int main(){
             count++;
             if(count==1)i1=i;
             if(count==2)i2=i;
-        
         }
     }
     if(count==0){
@@ -23,9 +22,9 @@ int main(){
     else if(count==2){
         if(s1[i1]==s2[i2] && s1[i2]==s2[i1]){
             cout<<"true"<<endl;
+        }else{
+            cout<<"false"<<endl;
         }
-    }else{
-        cout<<"false"<<endl;
     }
     return 0;
 }
