@@ -1,6 +1,6 @@
 /*Q--you are given two string s1 and s2 of enual length .a string swap is an operation where
  you choose two indices in string (not necessarily different) and swap the character these indices
-exampe-- input: s1="bank",s2="kanb"
+example-- input: s1="bank",s2="kanb"
          output:ture  */
 #include<iostream>
 #include<cstring>
