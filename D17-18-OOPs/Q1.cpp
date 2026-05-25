@@ -9,7 +9,7 @@ class Complex{
     img=i;
     }
     void showresult(){
-        cout<<real<<"-"<<img<<"i"<<endl;
+        cout<<"("<<real<<")"<<"-"<<"("<<img<<"i"<<")"<<endl;
     }
     void operator -(Complex &c2){
         int resReal=this->real-c2.real;
