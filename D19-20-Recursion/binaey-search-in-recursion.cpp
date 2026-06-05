@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int binsearch(int arr[],int st,int end,int key){
       int mid=(st+end)/2;
     if(st>end){
