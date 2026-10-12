@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+
 int getPivot(int arr[], int size){
     int start=0,end=size-1;
     while(start<end){
