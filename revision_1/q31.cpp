@@ -22,7 +22,6 @@ int main() {
 
     cout << "Size after pop_back: " << v.size() << endl;
 
-
 for (int i = 1; i <= 5; i++) {
     v.push_back(i);
     cout << "Added " << i 
