@@ -21,7 +21,8 @@ int main(){
     // Print using range-based for loops
     for (const vector<int> &row : grid) {
         for (int val : row) {
-            cout << val << " ";
+  
+        cout << val << " ";
         }
         cout << endl;
     }
