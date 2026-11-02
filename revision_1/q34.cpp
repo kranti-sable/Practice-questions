@@ -3,7 +3,7 @@
 using namespace std;
 bool binSearchRow(vector<int> &row,int target){
     int start=0,end=row.size()-1;
-    while(start<end){
+    while(start<=end){
         int mid=start+(end-start)/2;
         if(row[mid]==target){
             return true;

@@ -13,5 +13,5 @@ int main(){
     int arr[] = {22, 14, 8, 65, 3, 90};
     int size=6;
     findMinMax(arr,size);
-    
+   return 0; 
 }
